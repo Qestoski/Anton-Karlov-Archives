@@ -1,2 +1,4 @@
-These are most of Anton Karlov games, even the games that didn't get released, we are still looking for more games.
--This is fairly easy to use, download the file, drag the SWF file to FlashPlayer, and it should be fine.
+## Info
+This GitHub repository was made to archive AntKarlov's games, even the ones that aren't publically released.
+> To play one of the versions of the game, download the exe file we linked, drag the chosen SWF file to FlashPlayer, and you should be able to play.
+## History
